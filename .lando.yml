@@ -1,0 +1,6 @@
+name: livewire-sandbox
+recipe: laravel
+config:
+  php: '7.3'
+  via: nginx
+  webroot: app/public
